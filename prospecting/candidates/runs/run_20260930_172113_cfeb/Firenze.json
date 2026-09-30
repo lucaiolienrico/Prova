@@ -1,0 +1,39 @@
+[
+  {
+    "n": "Il Poggetto",
+    "cat": "Veterinari",
+    "sub": null,
+    "city": "Firenze",
+    "prov": "FI",
+    "reg": "Toscana",
+    "addr": "Via Celso 2 R",
+    "site": "https://www.clinicaveterinariailpoggetto.it/",
+    "email": "info@ilpoggettovet.it",
+    "tel": null,
+    "ig": null,
+    "fb": null,
+    "contact": null,
+    "src": "OpenStreetMap (Overpass API, ODbL)",
+    "srcurl": "https://www.openstreetmap.org/node/2361715539",
+    "osm_id": 2361715539,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Firenze",
+      "addr:country": "IT",
+      "addr:housenumber": "2 R",
+      "addr:street": "Via Celso",
+      "amenity": "veterinary",
+      "check_date": "2025-02-01",
+      "email": "info@ilpoggettovet.it",
+      "name": "Il Poggetto",
+      "opening_hours": "Mo-Fr 08:30-20:30; Sa 09:00-19:00; Su 09:00-13:00",
+      "source": "Comune di Firenze",
+      "website": "https://www.clinicaveterinariailpoggetto.it/"
+    },
+    "lat": 43.793966,
+    "lon": 11.2453362,
+    "other": "OSM: amenity=veterinary, opening_hours=Mo-Fr 08:30-20:30; Sa 09:00-19:00; Su 09:00-13:00",
+    "notes": "Fonte OpenStreetMap (ODbL). Dati di contatto come mappati in OSM: verificare prima di un eventuale contatto.",
+    "_system": "automatica"
+  }
+]

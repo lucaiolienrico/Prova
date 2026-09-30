@@ -839,3 +839,15 @@
 
 **Bilancio**: 6 citta' ok, 25 elementi OSM, 25 schede candidate, 1 nuove, 0 integrate, 0 citta' fallite (verranno ritentate), coda rimanente ~382.
 
+## Giro del 2026-09-30T17:21:13Z (run_20260930_172113_cfeb)
+| Citta' | Elementi | Trovati | Nuovi | Gia' noti / integrati | Esito |
+|---|---|---|---|---|---|
+| Bologna | 1 | 1 | 0 | 1 (0 integrati) | ok |
+| Firenze | 1 | 1 | 0 | 1 (0 integrati) | ok |
+| Bari | 2 | 2 | 0 | 2 (0 integrati) | ok |
+| Catania | 1 | 1 | 0 | 1 (0 integrati) | ok |
+| Venezia | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Verona | 0 | 0 | 0 | 0 (0 integrati) | ok |
+
+**Bilancio**: 6 citta' ok, 5 elementi OSM, 5 schede candidate, 0 nuove, 0 integrate, 0 citta' fallite (verranno ritentate), coda rimanente ~376.
+

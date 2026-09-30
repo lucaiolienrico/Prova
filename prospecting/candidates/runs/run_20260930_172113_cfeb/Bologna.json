@@ -1,0 +1,40 @@
+[
+  {
+    "n": "Ambulatorio Veterinario Guidotti",
+    "cat": "Veterinari",
+    "sub": null,
+    "city": "Bologna",
+    "prov": "BO",
+    "reg": "Emilia-Romagna",
+    "addr": "Via Alessandro Guidotti 40a, 40134",
+    "site": "https://www.facebook.com/Ambulatorio-Veterinario-Guidotti-101227044772600",
+    "email": "ambvetguidotti@gmail.com",
+    "tel": "+39 3491007581",
+    "ig": null,
+    "fb": null,
+    "contact": null,
+    "src": "OpenStreetMap (Overpass API, ODbL)",
+    "srcurl": "https://www.openstreetmap.org/node/4793750758",
+    "osm_id": 4793750758,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Bologna",
+      "addr:housenumber": "40a",
+      "addr:postcode": "40134",
+      "addr:street": "Via Alessandro Guidotti",
+      "amenity": "veterinary",
+      "check_date": "2023-05-03",
+      "currency:XBT": "yes",
+      "description": "Ambulatorio Veterinario per animali da compagnia / pets. Clinica, chirurgia, consulenza, reperibilità h24, visite domiciliari.",
+      "email": "ambvetguidotti@gmail.com",
+      "name": "Ambulatorio Veterinario Guidotti",
+      "phone": "+39 3491007581",
+      "website": "https://www.facebook.com/Ambulatorio-Veterinario-Guidotti-101227044772600"
+    },
+    "lat": 44.4924411,
+    "lon": 11.3257182,
+    "other": "OSM: amenity=veterinary",
+    "notes": "Fonte OpenStreetMap (ODbL). Dati di contatto come mappati in OSM: verificare prima di un eventuale contatto.",
+    "_system": "automatica"
+  }
+]
