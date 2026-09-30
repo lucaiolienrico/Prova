@@ -1,0 +1,38 @@
+[
+  {
+    "n": "Centro Veterinario SOS",
+    "cat": "Veterinari",
+    "sub": null,
+    "city": "Brescia",
+    "prov": "BS",
+    "reg": "Lombardia",
+    "addr": "Via Guglielmo Oberdan 6v, 25128",
+    "site": null,
+    "email": "info@sosveterinariobrescia.it",
+    "tel": "+39 030 305951",
+    "ig": null,
+    "fb": null,
+    "contact": null,
+    "src": "OpenStreetMap (Overpass API, ODbL)",
+    "srcurl": "https://www.openstreetmap.org/node/3240952283",
+    "osm_id": 3240952283,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Brescia",
+      "addr:housenumber": "6v",
+      "addr:postcode": "25128",
+      "addr:street": "Via Guglielmo Oberdan",
+      "amenity": "veterinary",
+      "contact:email": "info@sosveterinariobrescia.it",
+      "contact:phone": "+39 030 305951",
+      "level": "0",
+      "name": "Centro Veterinario SOS",
+      "ref:vatin": "IT04142370982"
+    },
+    "lat": 45.5593398,
+    "lon": 10.2214314,
+    "other": "OSM: amenity=veterinary",
+    "notes": "Fonte OpenStreetMap (ODbL). Dati di contatto come mappati in OSM: verificare prima di un eventuale contatto.",
+    "_system": "automatica"
+  }
+]
