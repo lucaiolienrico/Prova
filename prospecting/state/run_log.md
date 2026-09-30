@@ -812,3 +812,18 @@
 
 **Bilancio**: 3 citta' ok, 4 elementi OSM, 4 schede candidate, 4 nuove, 0 integrate, 0 citta' fallite (verranno ritentate), coda rimanente ~0.
 
+
+---
+
+## ⚙️ Cambio configurazione — 2026-09-30 (ciclo 2)
+
+**RESTRIZIONE EMAIL** richiesta dall'utente e attivata in `config.json` (`"require_email": true`):
+
+- `find_candidates.py`: le query Overpass ora chiedono **solo** elementi con tag
+  `email` o `contact:email` non vuoto (clausole `["email"~"."]` / `["contact:email"~"."]`);
+  schede senza email valida non entrano nell'archivio.
+- `process.py`: CSV/JSON/shortlist/riepilogo contengono **solo** prospect con email.
+- Progresso azzerato: parte il **ciclo 2**, un nuovo passaggio sulle 388 città per
+  raccogliere SOLO contatti con email e integrare le email nelle schede già note
+  (anti-duplicato: gli elementi già in archivio vengono arricchiti, non duplicati).
+- Stato del ciclo 1 archiviato in `state/progress_ciclo1_completato.json`.

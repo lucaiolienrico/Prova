@@ -29,6 +29,10 @@ Uso:
   python3 prospecting/find_candidates.py --dry-run           # mostra le query, non interroga
   python3 prospecting/find_candidates.py --offline-fixture FILE  # test senza rete
 
+RESTRIZIONE EMAIL (config.json -> "require_email": true, attiva dal 30/09/2026):
+  le query Overpass chiedono solo elementi con tag email o contact:email non
+  vuoto; le schede senza email valida non entrano mai nell'archivio.
+
 Dipendenze: solo libreria standard Python 3.8+.
 """
 
@@ -88,6 +92,12 @@ DEFAULT_RECIPE = [
 ]
 RECIPE = OPS.get("recipe") or DEFAULT_RECIPE
 CITIES_PER_RUN = int(CFG.get("cities_per_run", 6))
+# RESTRIZIONE (dal 2026-09-30, richiesta utente): cercare SOLO contatti con
+# indirizzo email. Se attiva, le query Overpass chiedono soltanto elementi che
+# hanno un tag email o contact:email non vuoto, e le schede senza email valida
+# vengono scartate prima dell'archivio.
+REQUIRE_EMAIL = bool(CFG.get("require_email", False))
+EMAIL_TAG_SELECTORS = ('["email"~"."]', '["contact:email"~"."]')
 OVERRIDE_CITIES = None  # impostato da --cities
 
 
@@ -272,13 +282,23 @@ def build_geocode_queries(code, name):
 
 
 def _clauses_for(rule, sel):
-    """sel: 'area' oppure 'around:<r>,<lat>,<lon>'. AND dentro una query, OR tra query."""
+    """sel: 'area' oppure 'around:<r>,<lat>,<lon>'. AND dentro una query, OR tra query.
+
+    Con REQUIRE_EMAIL ogni clausola viene duplicata in due varianti che
+    richiedono un tag email OPPURE contact:email non vuoto ('~"."' = regex che
+    matcha qualunque valore di almeno 1 carattere). Le due varianti finiscono
+    nella stessa union: Overpass deduplica gli oggetti in output.
+    """
     clauses = []
     for query in rule.get("queries", []):
         for t in ("node", "way"):
             tag_sel = "".join(
                 f'["{k}"]' if v == "*" else f'["{k}"="{v}"]' for k, v in query.items())
-            clauses.append(f"{t}{tag_sel}({sel});")
+            if REQUIRE_EMAIL:
+                for email_sel in EMAIL_TAG_SELECTORS:
+                    clauses.append(f"{t}{tag_sel}{email_sel}({sel});")
+            else:
+                clauses.append(f"{t}{tag_sel}({sel});")
     return clauses
 
 
@@ -560,6 +580,19 @@ def run(log=print, dry_run=False):
             stats["failed"].append({"name": city["name"], "error": "geocodifica fallita"})
             log_lines.append(f"| {city['name']} | - | - | - | - | geocodifica fallita |")
             continue
+        # RESTRIZIONE EMAIL: tiene solo schede con email valida (Overpass ha
+        # gia' filtrato a monte; rete di sicurezza) e deduplica gli elementi
+        # eventualmente restituiti due volte dalle clausole email/contact:email.
+        if REQUIRE_EMAIL:
+            records = [r for r in records if norm_email(r.get("email"))]
+            _seen, _uniq = set(), []
+            for r in records:
+                k = (r.get("osm_type"), r.get("osm_id"))
+                if k in _seen:
+                    continue
+                _seen.add(k)
+                _uniq.append(r)
+            records = _uniq
         stats["cities"] += 1
         stats["done_cities"].append(city["name"])
         stats["elements"] += len(records)

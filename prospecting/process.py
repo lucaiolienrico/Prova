@@ -324,6 +324,15 @@ def build(r):
 results = [build(r) for r in finals]
 results.sort(key=lambda x: ((x["category"] or ""), (x["region"] or "~~~"), (x["province"] or "~~"), (x["city"] or "~~~"), -x["score"]))
 
+# RESTRIZIONE EMAIL (config.json -> "require_email": true, attiva dal 30/09/2026):
+# gli output contengono SOLO prospect con indirizzo email. L'archivio storico
+# completo (anche senza email) resta in candidates/archive.json e raw/*.json.
+REQUIRE_EMAIL = bool(CFG.get("require_email", False))
+N_BEFORE_EMAIL_FILTER = len(results)
+if REQUIRE_EMAIL:
+    results = [r for r in results if r.get("email")]
+    print(f"FILTRO EMAIL ATTIVO: {N_BEFORE_EMAIL_FILTER} schede -> {len(results)} con email")
+
 with open(os.path.join(OUT_DIR, F_JSON), "w", encoding="utf-8") as f:
     json.dump(results, f, ensure_ascii=False, indent=2)
 
@@ -375,6 +384,10 @@ lines = []
 lines.append("PETNOTE PROSPECTING - RIEPILOGO AUTOMATICO")
 lines.append("Generato: " + datetime.datetime.now().strftime("%Y-%m-%d %H:%M"))
 lines.append("=" * 60)
+if REQUIRE_EMAIL:
+    lines.append("*** RESTRIZIONE EMAIL ATTIVA: questo database contiene SOLO ***")
+    lines.append(f"*** contatti con indirizzo email ({len(results)} su {N_BEFORE_EMAIL_FILTER} schede note). ***")
+    lines.append("")
 lines.append(f"Prospect totali: .............. {n} (manuali {n_man}, H24 {n_auto})")
 lines.append(f"Con contatto diretto ......... {with_contact} ({100*with_contact//n}%)")
 lines.append(f"Con sito web ................. {with_site}")

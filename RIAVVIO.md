@@ -5,6 +5,23 @@
 > (erano solo nel sandbox della sessione chiusa e non sono mai arrivati su GitHub).
 > Il sistema H24 è stato **ricostruito da zero e testato** — vedi §1.
 
+## 0. RESTRIZIONE ATTIVA: SOLO CONTATTI CON EMAIL (dal 2026-09-30)
+
+Per richiesta dell'utente, il sistema cerca e tiene **solo contatti con indirizzo
+email** (`config.json` → `"require_email": true`):
+
+- `find_candidates.py` interroga Overpass chiedendo soltanto elementi con tag
+  `email` o `contact:email` non vuoto; schede senza email non entrano nell'archivio;
+- `process.py` emette CSV/JSON/shortlist/riepilogo contenenti solo prospect con email;
+- **ciclo 2** in corso: nuovo passaggio sulle 388 città con il filtro attivo —
+  le schede già note vengono **integrate** con le email disponibili (mai duplicate),
+  i nuovi esercizi con email vengono aggiunti;
+- lo storico completo (anche senza email) resta in `candidates/archive.json` e
+  `raw/*.json`; stato del ciclo 1 in `state/progress_ciclo1_completato.json`.
+
+Per **disattivare** la restrizione: `"require_email": false` in `config.json`
+(e rilanciare `python3 prospecting/process.py`).
+
 ## 1. Stato attuale
 
 Tutto è in questo repository, sul branch `main` (attraverso la PR di sessione):
