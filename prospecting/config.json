@@ -1,6 +1,9 @@
 {
   "_commento": "Configurazione pipeline PetNote Prospecting. Modificare qui i pesi di scoring, le categorie canoniche e le soglie di priorita'; poi rilanciare: python3 prospecting/process.py",
 
+  "require_email": true,
+  "_require_email_commento": "RESTRIZIONE ATTIVA dal 2026-09-30 (richiesta utente): il sistema cerca e tiene SOLO contatti con indirizzo email. find_candidates.py interroga Overpass chiedendo soltanto elementi con tag email/contact:email; process.py emette negli output solo prospect con email. L'archivio storico completo resta in candidates/archive.json.",
+
   "categories": [
     "Veterinari", "Cliniche veterinarie", "Ambulatori veterinari", "Ospedali veterinari",
     "Canili", "Rifugi per animali", "Associazioni animaliste", "Allevatori",

@@ -1,61 +1,54 @@
 PETNOTE PROSPECTING - RIEPILOGO AUTOMATICO
-Generato: 2026-09-30 03:18
+Generato: 2026-09-30 07:25
 ============================================================
-Prospect totali: .............. 1242 (manuali 189, H24 1053)
-Con contatto diretto ......... 467 (37%)
-Con sito web ................. 239
-Shortlist A+/A/B ............. 117
-Comuni/localita' distinti .... 304
+*** RESTRIZIONE EMAIL ATTIVA: questo database contiene SOLO ***
+*** contatti con indirizzo email (151 su 1242 schede note). ***
 
-PRIORITA': A+=5, A=37, B=75, C=173, D=952
+Prospect totali: .............. 151 (manuali 44, H24 107)
+Con contatto diretto ......... 151 (100%)
+Con sito web ................. 107
+Shortlist A+/A/B ............. 103
+Comuni/localita' distinti .... 78
+
+PRIORITA': A+=5, A=36, B=62, C=41, D=7
 
 PER REGIONE:
-  Lombardia              250
-  Emilia-Romagna         126
-  Sicilia                117
-  Toscana                113
-  Campania               102
-  Lazio                  96
-  Piemonte               89
-  Puglia                 78
-  Veneto                 64
-  Liguria                44
-  Marche                 32
-  Sardegna               28
-  Abruzzo                22
-  Friuli-Venezia Giulia  17
-  Molise                 13
-  Calabria               12
-  Trentino-Alto Adige/Südtirol 12
-  Umbria                 12
-  Valle d'Aosta/Vallée d'Aoste 7
-  Basilicata             5
+  Lombardia              43
+  Lazio                  18
+  Emilia-Romagna         12
+  Puglia                 10
+  Toscana                10
+  Piemonte               9
+  Sicilia                9
+  Veneto                 7
+  Campania               7
+  Friuli-Venezia Giulia  5
+  Trentino-Alto Adige/Südtirol 5
+  Molise                 3
+  Abruzzo                3
+  Sardegna               2
+  Calabria               2
   (senza regione)        2
+  Marche                 2
   Trentino-Alto Adige    1
+  Liguria                1
 
 PER CATEGORIA:
-  Veterinari                                     666
-  Pet shop                                       279
-  Toelettature                                   83
-  Rifugi per animali                             59
-  Ambulatori veterinari                          32
-  Pensioni per animali                           27
-  Negozi per animali                             18
-  Allevatori                                     15
-  Associazioni animaliste                        10
-  Educatori cinofili                             9
-  Canili                                         8
-  Centri cinofili                                8
-  Cliniche veterinarie                           6
-  Allevamenti professionali                      5
-  Servizi di pet care                            4
-  Addestratori                                   3
-  Ospedali veterinari                            3
-  Agenzie e servizi dedicati agli animali domestici 2
-  Pet hotel                                      2
-  Cat sitter                                     1
-  Dog sitter                                     1
-  Fisioterapisti veterinari                      1
+  Veterinari                                     83
+  Rifugi per animali                             12
+  Pet shop                                       11
+  Toelettature                                   10
+  Pensioni per animali                           8
+  Ambulatori veterinari                          6
+  Associazioni animaliste                        6
+  Allevatori                                     3
+  Centri cinofili                                3
+  Negozi per animali                             3
+  Canili                                         2
+  Agenzie e servizi dedicati agli animali domestici 1
+  Allevamenti professionali                      1
+  Pet hotel                                      1
+  Servizi di pet care                            1
 
 TOP 15 PROSPECT PER SCORE:
    97 A+  Bolle & Cucce                                        Empoli               Toelettature
