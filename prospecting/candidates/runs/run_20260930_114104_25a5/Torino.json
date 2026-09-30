@@ -1,0 +1,42 @@
+[
+  {
+    "n": "Clinica Veterinaria San Paolo",
+    "cat": "Veterinari",
+    "sub": null,
+    "city": "Torino",
+    "prov": "TO",
+    "reg": "Piemonte",
+    "addr": "Via Issiglio 111 int. 4, 10141",
+    "site": "https://www.ambulatorioveterinario-torino.it/",
+    "email": "info@clinicasanpaolo.it",
+    "tel": "+39 011 3722558",
+    "ig": null,
+    "fb": null,
+    "contact": null,
+    "src": "OpenStreetMap (Overpass API, ODbL)",
+    "srcurl": "https://www.openstreetmap.org/node/4734597325",
+    "osm_id": 4734597325,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Torino",
+      "addr:housenumber": "111 int. 4",
+      "addr:postcode": "10141",
+      "addr:street": "Via Issiglio",
+      "amenity": "veterinary",
+      "check_date": "2025-11-15",
+      "email": "info@clinicasanpaolo.it",
+      "name": "Clinica Veterinaria San Paolo",
+      "opening_hours": "Mo-Sa 09:30-22:30; Su 10:00-19:00; PH open",
+      "phone": "+39 011 3722558",
+      "ref:vatin": "IT10500600019",
+      "veterinary": "clinic",
+      "veterinary:treats:rabbit": "yes",
+      "website": "https://www.ambulatorioveterinario-torino.it/"
+    },
+    "lat": 45.0597177,
+    "lon": 7.6402519,
+    "other": "OSM: amenity=veterinary, opening_hours=Mo-Sa 09:30-22:30; Su 10:00-19:00; PH open",
+    "notes": "Fonte OpenStreetMap (ODbL). Dati di contatto come mappati in OSM: verificare prima di un eventuale contatto.",
+    "_system": "automatica"
+  }
+]

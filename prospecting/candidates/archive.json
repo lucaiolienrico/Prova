@@ -36497,5 +36497,43 @@
     "_archive_id": 1058,
     "_found_at": "2026-09-17T16:02:10Z",
     "_wave": "run_20260917_155824_bb23"
+  },
+  {
+    "n": "Barber Dog Toelettatura",
+    "cat": "Toelettature",
+    "sub": null,
+    "city": "Palermo",
+    "prov": "PA",
+    "reg": "Sicilia",
+    "addr": "Viale Croce Rossa 128, 90145",
+    "site": "http://www.barberdog.it",
+    "email": "rosario.delmonte@icloud.com",
+    "tel": "+39 3294116013",
+    "ig": null,
+    "fb": null,
+    "contact": null,
+    "src": "OpenStreetMap (Overpass API, ODbL)",
+    "srcurl": "https://www.openstreetmap.org/node/5431070022",
+    "osm_id": 5431070022,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Palermo",
+      "addr:housenumber": "128",
+      "addr:postcode": "90145",
+      "addr:street": "Viale Croce Rossa",
+      "email": "rosario.delmonte@icloud.com",
+      "name": "Barber Dog Toelettatura",
+      "phone": "+39 3294116013",
+      "shop": "pet_grooming",
+      "website": "http://www.barberdog.it"
+    },
+    "lat": 38.150708,
+    "lon": 13.339083,
+    "other": "OSM: shop=pet_grooming",
+    "notes": "Fonte OpenStreetMap (ODbL). Dati di contatto come mappati in OSM: verificare prima di un eventuale contatto.",
+    "_system": "automatica",
+    "_archive_id": 1059,
+    "_found_at": "2026-09-30T11:46:23Z",
+    "_wave": "run_20260930_114104_25a5"
   }
 ]

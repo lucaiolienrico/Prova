@@ -1,8 +1,15 @@
 {
-  "done": [],
-  "last_run": null,
-  "runs": 0,
-  "new_total": 0,
+  "done": [
+    "Genova",
+    "Milano",
+    "Napoli",
+    "Palermo",
+    "Roma",
+    "Torino"
+  ],
+  "last_run": "2026-09-30T11:46:30Z",
+  "runs": 1,
+  "new_total": 1,
   "enrich_total": 0,
   "ciclo": 2,
   "_nota": "Ciclo 2 avviato il 2026-09-30: nuovo passaggio su tutte le 388 citta' con RESTRIZIONE EMAIL attiva (config.json require_email=true): Overpass restituisce solo elementi con tag email/contact:email e gli output contengono solo contatti con email. Stato finale del ciclo 1 (388/388 citta', 1058 schede) archiviato in state/progress_ciclo1_completato.json."

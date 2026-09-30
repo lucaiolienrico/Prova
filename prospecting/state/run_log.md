@@ -827,3 +827,15 @@
   raccogliere SOLO contatti con email e integrare le email nelle schede già note
   (anti-duplicato: gli elementi già in archivio vengono arricchiti, non duplicati).
 - Stato del ciclo 1 archiviato in `state/progress_ciclo1_completato.json`.
+## Giro del 2026-09-30T11:41:04Z (run_20260930_114104_25a5)
+| Citta' | Elementi | Trovati | Nuovi | Gia' noti / integrati | Esito |
+|---|---|---|---|---|---|
+| Roma | 9 | 9 | 0 | 9 (0 integrati) | ok |
+| Milano | 8 | 8 | 0 | 8 (0 integrati) | ok |
+| Napoli | 1 | 1 | 0 | 1 (0 integrati) | ok |
+| Torino | 1 | 1 | 0 | 1 (0 integrati) | ok |
+| Palermo | 5 | 5 | 1 | 4 (0 integrati) | ok |
+| Genova | 1 | 1 | 0 | 1 (0 integrati) | ok |
+
+**Bilancio**: 6 citta' ok, 25 elementi OSM, 25 schede candidate, 1 nuove, 0 integrate, 0 citta' fallite (verranno ritentate), coda rimanente ~382.
+

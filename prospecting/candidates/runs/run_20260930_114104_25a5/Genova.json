@@ -1,0 +1,38 @@
+[
+  {
+    "n": "Clinica veterinaria Albaro",
+    "cat": "Veterinari",
+    "sub": null,
+    "city": "Genova",
+    "prov": "GE",
+    "reg": "Liguria",
+    "addr": "Via Montallegro 26 rosso",
+    "site": null,
+    "email": "info@clinicavetalbaro.it",
+    "tel": "+39 010 3620532",
+    "ig": null,
+    "fb": null,
+    "contact": null,
+    "src": "OpenStreetMap (Overpass API, ODbL)",
+    "srcurl": "https://www.openstreetmap.org/node/4682022248",
+    "osm_id": 4682022248,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:housenumber": "26 rosso",
+      "addr:street": "Via Montallegro",
+      "amenity": "veterinary",
+      "check_date": "2025-01-11",
+      "check_date:opening_hours": "2025-01-11",
+      "contact:phone": "+39 010 3620532",
+      "description": "Cellulare emergenze +393391416719",
+      "email": "info@clinicavetalbaro.it",
+      "name": "Clinica veterinaria Albaro",
+      "opening_hours": "Mo-Fr 09:00-19:00; Sa,Su 09:00-12:30"
+    },
+    "lat": 44.4027351,
+    "lon": 8.9625658,
+    "other": "OSM: amenity=veterinary, opening_hours=Mo-Fr 09:00-19:00; Sa,Su 09:00-12:30",
+    "notes": "Fonte OpenStreetMap (ODbL). Dati di contatto come mappati in OSM: verificare prima di un eventuale contatto.",
+    "_system": "automatica"
+  }
+]
