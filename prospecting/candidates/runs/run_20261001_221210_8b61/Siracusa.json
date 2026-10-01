@@ -1,0 +1,35 @@
+[
+  {
+    "n": "Wash Dog",
+    "cat": "Toelettature",
+    "sub": null,
+    "city": "Siracusa",
+    "prov": "SR",
+    "reg": "Sicilia",
+    "addr": null,
+    "site": "https://www.washdog.store/siracusa/",
+    "email": "siracusa@washdog.it",
+    "tel": "+39 345 0710901",
+    "ig": null,
+    "fb": null,
+    "contact": null,
+    "src": "OpenStreetMap (Overpass API, ODbL)",
+    "srcurl": "https://www.openstreetmap.org/node/14015727381",
+    "osm_id": 14015727381,
+    "osm_type": "node",
+    "osm_tags": {
+      "branch": "Siracusa",
+      "email": "siracusa@washdog.it",
+      "name": "Wash Dog",
+      "opening_hours": "Mo-Fr 09:00-13:00,15:30-19:30; Sa 09:00-13:00,15:00-20:00; Su 10:00-12:30,16:00-19:00",
+      "phone": "+39 345 0710901",
+      "shop": "pet_grooming",
+      "website": "https://www.washdog.store/siracusa/"
+    },
+    "lat": 37.0706682,
+    "lon": 15.280148,
+    "other": "OSM: opening_hours=Mo-Fr 09:00-13:00,15:30-19:30; Sa 09:00-13:00,15:00-20:00; Su 10:00-12:30,16:00-19:00, shop=pet_grooming",
+    "notes": "Fonte OpenStreetMap (ODbL). Dati di contatto come mappati in OSM: verificare prima di un eventuale contatto.",
+    "_system": "automatica"
+  }
+]

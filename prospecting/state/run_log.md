@@ -887,3 +887,15 @@
 
 **Bilancio**: 6 citta' ok, 1 elementi OSM, 1 schede candidate, 0 nuove, 0 integrate, 0 citta' fallite (verranno ritentate), coda rimanente ~358.
 
+## Giro del 2026-10-01T22:12:10Z (run_20261001_221210_8b61)
+| Citta' | Elementi | Trovati | Nuovi | Gia' noti / integrati | Esito |
+|---|---|---|---|---|---|
+| Sassari | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Monza | 11 | 11 | 9 | 2 (0 integrati) | ok |
+| Siracusa | 1 | 1 | 0 | 1 (1 integrati) | ok |
+| Latina | 1 | 1 | 1 | 0 (0 integrati) | ok |
+| Pescara | 2 | 2 | 0 | 2 (0 integrati) | ok |
+| Forlì | 2 | 2 | 0 | 2 (0 integrati) | ok |
+
+**Bilancio**: 6 citta' ok, 17 elementi OSM, 17 schede candidate, 10 nuove, 1 integrate, 0 citta' fallite (verranno ritentate), coda rimanente ~352.
+

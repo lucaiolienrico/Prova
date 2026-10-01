@@ -1,0 +1,33 @@
+[
+  {
+    "n": "Moby Dick",
+    "cat": "Pet shop",
+    "sub": null,
+    "city": "Latina",
+    "prov": "LT",
+    "reg": "Lazio",
+    "addr": null,
+    "site": "https://www.moby-dick.it/",
+    "email": "shop@moby-dick.it",
+    "tel": "+39 0773 175 1600",
+    "ig": null,
+    "fb": null,
+    "contact": null,
+    "src": "OpenStreetMap (Overpass API, ODbL)",
+    "srcurl": "https://www.openstreetmap.org/node/10173068296",
+    "osm_id": 10173068296,
+    "osm_type": "node",
+    "osm_tags": {
+      "email": "shop@moby-dick.it",
+      "name": "Moby Dick",
+      "phone": "+39 0773 175 1600",
+      "shop": "pet",
+      "website": "https://www.moby-dick.it/"
+    },
+    "lat": 41.46544,
+    "lon": 12.8904796,
+    "other": "OSM: shop=pet",
+    "notes": "Fonte OpenStreetMap (ODbL). Dati di contatto come mappati in OSM: verificare prima di un eventuale contatto.",
+    "_system": "automatica"
+  }
+]
