@@ -875,3 +875,15 @@
 
 **Bilancio**: 6 citta' ok, 3 elementi OSM, 3 schede candidate, 2 nuove, 0 integrate, 0 citta' fallite (verranno ritentate), coda rimanente ~364.
 
+## Giro del 2026-10-01T12:09:55Z (run_20261001_120955_62ab)
+| Citta' | Elementi | Trovati | Nuovi | Gia' noti / integrati | Esito |
+|---|---|---|---|---|---|
+| Ravenna | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Cagliari | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Foggia | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Rimini | 1 | 1 | 0 | 1 (0 integrati) | ok |
+| Salerno | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Ferrara | 0 | 0 | 0 | 0 (0 integrati) | ok |
+
+**Bilancio**: 6 citta' ok, 1 elementi OSM, 1 schede candidate, 0 nuove, 0 integrate, 0 citta' fallite (verranno ritentate), coda rimanente ~358.
+
