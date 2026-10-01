@@ -1,0 +1,38 @@
+[
+  {
+    "n": "Dottor Mario Lemmi",
+    "cat": "Veterinari",
+    "sub": null,
+    "city": "Livorno",
+    "prov": "LI",
+    "reg": "Toscana",
+    "addr": "Viale Ippolito Nievo 39,41",
+    "site": null,
+    "email": "lemmimario@alice.it",
+    "tel": "+39 0586 408370",
+    "ig": null,
+    "fb": null,
+    "contact": null,
+    "src": "OpenStreetMap (Overpass API, ODbL)",
+    "srcurl": "https://www.openstreetmap.org/node/1725269110",
+    "osm_id": 1725269110,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:housenumber": "39,41",
+      "addr:street": "Viale Ippolito Nievo",
+      "amenity": "veterinary",
+      "description:it": "ambulatorio veterinario; emergenza veterinaria 24 ore su 24",
+      "email": "lemmimario@alice.it",
+      "emergency": "yes",
+      "mobile_phone": "+39 338 4170410",
+      "name": "Dottor Mario Lemmi",
+      "opening_hours": "Mo-Fr 09:00-12:30,15:30-19:30; Sa 09:00-16:30",
+      "phone": "+39 0586 408370"
+    },
+    "lat": 43.5575148,
+    "lon": 10.3266013,
+    "other": "OSM: amenity=veterinary, opening_hours=Mo-Fr 09:00-12:30,15:30-19:30; Sa 09:00-16:30",
+    "notes": "Fonte OpenStreetMap (ODbL). Dati di contatto come mappati in OSM: verificare prima di un eventuale contatto.",
+    "_system": "automatica"
+  }
+]

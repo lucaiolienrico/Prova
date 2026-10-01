@@ -1,0 +1,39 @@
+[
+  {
+    "n": "Agrilia",
+    "cat": "Rifugi per animali",
+    "sub": null,
+    "city": "Perugia",
+    "prov": "PG",
+    "reg": "Umbria",
+    "addr": "Strada Ponte Pattoli - Monte Bello 2",
+    "site": "http://www.agrilia.it",
+    "email": "agrilia@agrilia.it",
+    "tel": "+39 075 6940287",
+    "ig": null,
+    "fb": null,
+    "contact": null,
+    "src": "OpenStreetMap (Overpass API, ODbL)",
+    "srcurl": "https://www.openstreetmap.org/node/5406264935",
+    "osm_id": 5406264935,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Ponte Pattoli",
+      "addr:housenumber": "2",
+      "addr:street": "Strada Ponte Pattoli - Monte Bello",
+      "amenity": "animal_shelter",
+      "animal_shelter": "dog",
+      "animal_shelter:adoption": "yes",
+      "email": "agrilia@agrilia.it",
+      "fax": "+39 075 6940287",
+      "name": "Agrilia",
+      "phone": "+39 075 6940287",
+      "website": "http://www.agrilia.it"
+    },
+    "lat": 43.1723758,
+    "lon": 12.4082391,
+    "other": "OSM: amenity=animal_shelter",
+    "notes": "Fonte OpenStreetMap (ODbL). Dati di contatto come mappati in OSM: verificare prima di un eventuale contatto.",
+    "_system": "automatica"
+  }
+]
