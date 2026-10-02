@@ -37299,5 +37299,43 @@
     "_archive_id": 1078,
     "_found_at": "2026-10-02T03:26:11Z",
     "_wave": "run_20261002_032546_792f"
+  },
+  {
+    "n": "FidoMania",
+    "cat": "Pet shop",
+    "sub": null,
+    "city": "Pesaro",
+    "prov": "PU",
+    "reg": "Marche",
+    "addr": "Via Flaminia 141, 61122",
+    "site": "https://www.fidomania.com/",
+    "email": "info@fidomania.com",
+    "tel": "+39 0721 392208",
+    "ig": null,
+    "fb": null,
+    "contact": null,
+    "src": "OpenStreetMap (Overpass API, ODbL)",
+    "srcurl": "https://www.openstreetmap.org/node/9091252294",
+    "osm_id": 9091252294,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Pesaro",
+      "addr:housenumber": "141",
+      "addr:postcode": "61122",
+      "addr:street": "Via Flaminia",
+      "contact:email": "info@fidomania.com",
+      "contact:phone": "+39 0721 392208",
+      "name": "FidoMania",
+      "shop": "pet",
+      "website": "https://www.fidomania.com/"
+    },
+    "lat": 43.8986172,
+    "lon": 12.9205716,
+    "other": "OSM: shop=pet",
+    "notes": "Fonte OpenStreetMap (ODbL). Dati di contatto come mappati in OSM: verificare prima di un eventuale contatto.",
+    "_system": "automatica",
+    "_archive_id": 1079,
+    "_found_at": "2026-10-02T17:13:30Z",
+    "_wave": "run_20261002_170955_3baa"
   }
 ]

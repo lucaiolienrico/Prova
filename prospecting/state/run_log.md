@@ -923,3 +923,15 @@
 
 **Bilancio**: 6 citta' ok, 2 elementi OSM, 2 schede candidate, 0 nuove, 0 integrate, 0 citta' fallite (verranno ritentate), coda rimanente ~340.
 
+## Giro del 2026-10-02T17:09:55Z (run_20261002_170955_3baa)
+| Citta' | Elementi | Trovati | Nuovi | Gia' noti / integrati | Esito |
+|---|---|---|---|---|---|
+| Cesena | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Barletta | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Pesaro | 1 | 1 | 1 | 0 (0 integrati) | ok |
+| La Spezia | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Lecce | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Alessandria | 0 | 0 | 0 | 0 (0 integrati) | ok |
+
+**Bilancio**: 6 citta' ok, 1 elementi OSM, 1 schede candidate, 1 nuove, 0 integrate, 0 citta' fallite (verranno ritentate), coda rimanente ~334.
+
