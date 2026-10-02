@@ -935,3 +935,15 @@
 
 **Bilancio**: 6 citta' ok, 1 elementi OSM, 1 schede candidate, 1 nuove, 0 integrate, 0 citta' fallite (verranno ritentate), coda rimanente ~334.
 
+## Giro del 2026-10-02T21:39:28Z (run_20261002_213928_2337)
+| Citta' | Elementi | Trovati | Nuovi | Gia' noti / integrati | Esito |
+|---|---|---|---|---|---|
+| Catanzaro | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Pistoia | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Brindisi | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Lucca | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Torre del Greco | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Pisa | 0 | 0 | 0 | 0 (0 integrati) | ok |
+
+**Bilancio**: 6 citta' ok, 0 elementi OSM, 0 schede candidate, 0 nuove, 0 integrate, 0 citta' fallite (verranno ritentate), coda rimanente ~328.
+
