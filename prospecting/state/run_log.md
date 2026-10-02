@@ -911,3 +911,15 @@
 
 **Bilancio**: 6 citta' ok, 12 elementi OSM, 12 schede candidate, 7 nuove, 0 integrate, 0 citta' fallite (verranno ritentate), coda rimanente ~346.
 
+## Giro del 2026-10-02T11:40:12Z (run_20261002_114012_5fd4)
+| Citta' | Elementi | Trovati | Nuovi | Gia' noti / integrati | Esito |
+|---|---|---|---|---|---|
+| Novara | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Ancona | 1 | 1 | 0 | 1 (0 integrati) | ok |
+| Piacenza | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Andria | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Udine | 1 | 1 | 0 | 1 (0 integrati) | ok |
+| Arezzo | 0 | 0 | 0 | 0 (0 integrati) | ok |
+
+**Bilancio**: 6 citta' ok, 2 elementi OSM, 2 schede candidate, 0 nuove, 0 integrate, 0 citta' fallite (verranno ritentate), coda rimanente ~340.
+

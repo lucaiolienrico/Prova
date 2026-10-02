@@ -1,0 +1,35 @@
+[
+  {
+    "n": "Ambulatorio Veterinario Nordest s.a.",
+    "cat": "Veterinari",
+    "sub": null,
+    "city": "Udine",
+    "prov": "UD",
+    "reg": "Friuli-Venezia Giulia",
+    "addr": "Via Bariglaria 269",
+    "site": null,
+    "email": "nordest.vet@gmail.com",
+    "tel": "+390432565212",
+    "ig": null,
+    "fb": null,
+    "contact": null,
+    "src": "OpenStreetMap (Overpass API, ODbL)",
+    "srcurl": "https://www.openstreetmap.org/node/11082027205",
+    "osm_id": 11082027205,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:housenumber": "269",
+      "addr:street": "Via Bariglaria",
+      "amenity": "veterinary",
+      "email": "nordest.vet@gmail.com",
+      "name": "Ambulatorio Veterinario Nordest s.a.",
+      "opening_hours": "Mo-Fr 10:00-12:30, 15:30-19:00; Sa 11:00-15:00",
+      "phone": "+390432565212"
+    },
+    "lat": 46.093406,
+    "lon": 13.267319,
+    "other": "OSM: amenity=veterinary, opening_hours=Mo-Fr 10:00-12:30, 15:30-19:00; Sa 11:00-15:00",
+    "notes": "Fonte OpenStreetMap (ODbL). Dati di contatto come mappati in OSM: verificare prima di un eventuale contatto.",
+    "_system": "automatica"
+  }
+]

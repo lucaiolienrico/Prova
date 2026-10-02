@@ -1,0 +1,39 @@
+[
+  {
+    "n": "Clinica Veterinaria Flaminia - Sede Centro",
+    "cat": "Veterinari",
+    "sub": null,
+    "city": "Ancona",
+    "prov": "AN",
+    "reg": "Marche",
+    "addr": "Piazza Errico Malatesta 20, 60121",
+    "site": "https://clinicaveterinariaflaminia.it",
+    "email": "clinicaveterinariaflaminia@gmail.com",
+    "tel": "+39 071 54762",
+    "ig": null,
+    "fb": null,
+    "contact": null,
+    "src": "OpenStreetMap (Overpass API, ODbL)",
+    "srcurl": "https://www.openstreetmap.org/node/12613064301",
+    "osm_id": 12613064301,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Ancona",
+      "addr:housenumber": "20",
+      "addr:postcode": "60121",
+      "addr:street": "Piazza Errico Malatesta",
+      "amenity": "veterinary",
+      "email": "clinicaveterinariaflaminia@gmail.com",
+      "name": "Clinica Veterinaria Flaminia - Sede Centro",
+      "opening_hours": "Tu-Su 09:30-17:30",
+      "phone": "+39 071 54762",
+      "website": "https://clinicaveterinariaflaminia.it",
+      "wheelchair": "limited"
+    },
+    "lat": 43.6195284,
+    "lon": 13.5155774,
+    "other": "OSM: amenity=veterinary, opening_hours=Tu-Su 09:30-17:30",
+    "notes": "Fonte OpenStreetMap (ODbL). Dati di contatto come mappati in OSM: verificare prima di un eventuale contatto.",
+    "_system": "automatica"
+  }
+]
