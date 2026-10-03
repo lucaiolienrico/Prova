@@ -1,19 +1,19 @@
 PETNOTE PROSPECTING - RIEPILOGO AUTOMATICO
-Generato: 2026-10-03 03:16
+Generato: 2026-10-03 11:00
 ============================================================
 *** RESTRIZIONE EMAIL ATTIVA: questo database contiene SOLO ***
-*** contatti con indirizzo email (173 su 1263 schede note). ***
+*** contatti con indirizzo email (176 su 1266 schede note). ***
 
-Prospect totali: .............. 173 (manuali 44, H24 129)
-Con contatto diretto ......... 173 (100%)
-Con sito web ................. 124
-Shortlist A+/A/B ............. 119
-Comuni/localita' distinti .... 85
+Prospect totali: .............. 176 (manuali 44, H24 132)
+Con contatto diretto ......... 176 (100%)
+Con sito web ................. 127
+Shortlist A+/A/B ............. 121
+Comuni/localita' distinti .... 87
 
-PRIORITA': A+=5, A=36, B=78, C=47, D=7
+PRIORITA': A+=5, A=37, B=79, C=48, D=7
 
 PER REGIONE:
-  Lombardia              52
+  Lombardia              55
   Lazio                  19
   Emilia-Romagna         13
   Trentino-Alto Adige/Südtirol 12
@@ -36,10 +36,10 @@ PER REGIONE:
 
 PER CATEGORIA:
   Veterinari                                     87
-  Pet shop                                       20
-  Rifugi per animali                             16
+  Pet shop                                       21
+  Rifugi per animali                             17
   Toelettature                                   15
-  Pensioni per animali                           8
+  Pensioni per animali                           9
   Ambulatori veterinari                          6
   Associazioni animaliste                        6
   Allevatori                                     3
@@ -59,6 +59,7 @@ TOP 15 PROSPECT PER SCORE:
    91 A+  Centro veterinario Ostia                             Roma                 Veterinari
    89 A   Le betulle                                           Saronno              Allevatori
    87 A   Azienda Agricola La Quercia                          Limbiate             Pensioni per animali
+   86 A   La Barf                                              Sesto San Giovanni   Pet shop
    86 A   Lala' - Pet a Porter                                 Bassano del Grappa   Toelettature
    85 A   Ambulatorio Veterinario Zama                         Faenza               Ambulatori veterinari
    85 A   Ambulatorio Veterinario Dr. Martino Cocca (Ambulator Campobasso           Ambulatori veterinari
@@ -66,4 +67,3 @@ TOP 15 PROSPECT PER SCORE:
    84 A   Centro Cinofilo Bauhaus Bassano                      Bassano del Grappa   Centri cinofili
    84 A   Aquarium                                             Scafati              Pet shop
    84 A   Palla di Pelo                                        Tivoli               Pet shop
-   83 A   Centro Cinofilo Erika Striulli - ACAFOC SSD arl      Quartu Sant'Elena    Centri cinofili

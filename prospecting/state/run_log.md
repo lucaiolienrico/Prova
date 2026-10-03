@@ -959,3 +959,15 @@
 
 **Bilancio**: 6 citta' ok, 4 elementi OSM, 4 schede candidate, 0 nuove, 0 integrate, 0 citta' fallite (verranno ritentate), coda rimanente ~322.
 
+## Giro del 2026-10-03T10:53:46Z (run_20261003_105346_d2c8)
+| Citta' | Elementi | Trovati | Nuovi | Gia' noti / integrati | Esito |
+|---|---|---|---|---|---|
+| Busto Arsizio | 5 | 5 | 1 | 4 (0 integrati) | ok |
+| Casoria | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Grosseto | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Sesto San Giovanni | 10 | 10 | 2 | 8 (0 integrati) | ok |
+| Gela | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Caserta | 0 | 0 | 0 | 0 (0 integrati) | ok |
+
+**Bilancio**: 6 citta' ok, 15 elementi OSM, 15 schede candidate, 3 nuove, 0 integrate, 0 citta' fallite (verranno ritentate), coda rimanente ~316.
+
