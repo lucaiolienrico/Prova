@@ -983,3 +983,15 @@
 
 **Bilancio**: 6 citta' ok, 10 elementi OSM, 10 schede candidate, 0 nuove, 0 integrate, 0 citta' fallite (verranno ritentate), coda rimanente ~310.
 
+## Giro del 2026-10-03T20:25:15Z (run_20261003_202515_ee14)
+| Citta' | Elementi | Trovati | Nuovi | Gia' noti / integrati | Esito |
+|---|---|---|---|---|---|
+| Altamura | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Cosenza | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Quartu Sant'Elena | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Trapani | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Massa | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Pavia | 0 | 0 | 0 | 0 (0 integrati) | ok |
+
+**Bilancio**: 6 citta' ok, 0 elementi OSM, 0 schede candidate, 0 nuove, 0 integrate, 0 citta' fallite (verranno ritentate), coda rimanente ~304.
+
