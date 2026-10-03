@@ -971,3 +971,15 @@
 
 **Bilancio**: 6 citta' ok, 15 elementi OSM, 15 schede candidate, 3 nuove, 0 integrate, 0 citta' fallite (verranno ritentate), coda rimanente ~316.
 
+## Giro del 2026-10-03T15:30:27Z (run_20261003_153027_b430)
+| Citta' | Elementi | Trovati | Nuovi | Gia' noti / integrati | Esito |
+|---|---|---|---|---|---|
+| Corigliano-Rossano | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Asti | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Cinisello Balsamo | 10 | 10 | 0 | 10 (0 integrati) | ok |
+| Lamezia Terme | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Ragusa | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Cremona | 0 | 0 | 0 | 0 (0 integrati) | ok |
+
+**Bilancio**: 6 citta' ok, 10 elementi OSM, 10 schede candidate, 0 nuove, 0 integrate, 0 citta' fallite (verranno ritentate), coda rimanente ~310.
+
