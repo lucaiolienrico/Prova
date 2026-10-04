@@ -1007,3 +1007,15 @@
 
 **Bilancio**: 6 citta' ok, 0 elementi OSM, 0 schede candidate, 0 nuove, 0 integrate, 0 citta' fallite (verranno ritentate), coda rimanente ~298.
 
+## Giro del 2026-10-04T11:36:04Z (run_20261004_113604_cafb)
+| Citta' | Elementi | Trovati | Nuovi | Gia' noti / integrati | Esito |
+|---|---|---|---|---|---|
+| Castellammare di Stabia | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Carrara | 1 | 1 | 0 | 1 (0 integrati) | ok |
+| Afragola | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Viterbo | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Fano | 3 | 3 | 2 | 1 (0 integrati) | ok |
+| Viareggio | 0 | 0 | 0 | 0 (0 integrati) | ok |
+
+**Bilancio**: 6 citta' ok, 4 elementi OSM, 4 schede candidate, 2 nuove, 0 integrate, 0 citta' fallite (verranno ritentate), coda rimanente ~292.
+

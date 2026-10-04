@@ -1,5 +1,6 @@
 {
   "done": [
+    "Afragola",
     "Alessandria",
     "Altamura",
     "Ancona",
@@ -17,8 +18,10 @@
     "Busto Arsizio",
     "Cagliari",
     "Carpi",
+    "Carrara",
     "Caserta",
     "Casoria",
+    "Castellammare di Stabia",
     "Catania",
     "Catanzaro",
     "Cesena",
@@ -27,6 +30,7 @@
     "Corigliano-Rossano",
     "Cosenza",
     "Cremona",
+    "Fano",
     "Ferrara",
     "Firenze",
     "Fiumicino",
@@ -89,11 +93,13 @@
     "Varese",
     "Venezia",
     "Verona",
-    "Vicenza"
+    "Viareggio",
+    "Vicenza",
+    "Viterbo"
   ],
-  "last_run": "2026-10-04T03:44:07Z",
-  "runs": 15,
-  "new_total": 24,
+  "last_run": "2026-10-04T11:42:06Z",
+  "runs": 16,
+  "new_total": 26,
   "enrich_total": 1,
   "ciclo": 2,
   "_nota": "Ciclo 2 avviato il 2026-09-30: nuovo passaggio su tutte le 388 citta' con RESTRIZIONE EMAIL attiva (config.json require_email=true): Overpass restituisce solo elementi con tag email/contact:email e gli output contengono solo contatti con email. Stato finale del ciclo 1 (388/388 citta', 1058 schede) archiviato in state/progress_ciclo1_completato.json."
