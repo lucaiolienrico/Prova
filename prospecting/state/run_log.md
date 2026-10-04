@@ -995,3 +995,15 @@
 
 **Bilancio**: 6 citta' ok, 0 elementi OSM, 0 schede candidate, 0 nuove, 0 integrate, 0 citta' fallite (verranno ritentate), coda rimanente ~304.
 
+## Giro del 2026-10-04T03:38:21Z (run_20261004_033821_3da7)
+| Citta' | Elementi | Trovati | Nuovi | Gia' noti / integrati | Esito |
+|---|---|---|---|---|---|
+| Imola | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Fiumicino | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Carpi | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Aprilia | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| L'Aquila | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Potenza | 0 | 0 | 0 | 0 (0 integrati) | ok |
+
+**Bilancio**: 6 citta' ok, 0 elementi OSM, 0 schede candidate, 0 nuove, 0 integrate, 0 citta' fallite (verranno ritentate), coda rimanente ~298.
+
