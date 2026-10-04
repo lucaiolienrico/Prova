@@ -1,0 +1,38 @@
+[
+  {
+    "n": "Associazione Felini Felici Onlus",
+    "cat": "Rifugi per animali",
+    "sub": null,
+    "city": "Savona",
+    "prov": "SV",
+    "reg": "Liguria",
+    "addr": null,
+    "site": "https://www.felinifelici.it/",
+    "email": "feinifelici@libero.it",
+    "tel": "+39 347 7801155",
+    "ig": null,
+    "fb": null,
+    "contact": null,
+    "src": "OpenStreetMap (Overpass API, ODbL)",
+    "srcurl": "https://www.openstreetmap.org/way/392064909",
+    "osm_id": 392064909,
+    "osm_type": "way",
+    "osm_tags": {
+      "alt_name": "Oasi Felina Protetta “Andrea Delfino”",
+      "amenity": "animal_shelter",
+      "animal_boarding": "cat",
+      "animal_shelter": "cat",
+      "animal_shelter:adoption": "yes",
+      "email": "feinifelici@libero.it",
+      "name": "Associazione Felini Felici Onlus",
+      "opening_hours": "Su,PH 9:30-11:30 || \"by appointment\"",
+      "phone": "+39 347 7801155",
+      "website": "https://www.felinifelici.it/"
+    },
+    "lat": 44.3000934,
+    "lon": 8.4575522,
+    "other": "OSM: amenity=animal_shelter, opening_hours=Su,PH 9:30-11:30 || \"by appointment\"",
+    "notes": "Fonte OpenStreetMap (ODbL). Dati di contatto come mappati in OSM: verificare prima di un eventuale contatto.",
+    "_system": "automatica"
+  }
+]

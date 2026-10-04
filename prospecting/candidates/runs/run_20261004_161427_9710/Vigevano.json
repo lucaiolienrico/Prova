@@ -1,0 +1,35 @@
+[
+  {
+    "n": "Rifugio del cane \"Mariuccia Bono\"",
+    "cat": "Rifugi per animali",
+    "sub": null,
+    "city": "Vigevano",
+    "prov": "PV",
+    "reg": "Lombardia",
+    "addr": null,
+    "site": null,
+    "email": "canilevigevano@gmail.com",
+    "tel": "+39 038140242",
+    "ig": null,
+    "fb": null,
+    "contact": "A.D.A.I. Onlus",
+    "src": "OpenStreetMap (Overpass API, ODbL)",
+    "srcurl": "https://www.openstreetmap.org/way/220130593",
+    "osm_id": 220130593,
+    "osm_type": "way",
+    "osm_tags": {
+      "amenity": "animal_shelter",
+      "animal_shelter": "dog",
+      "animal_shelter:adoption": "yes",
+      "contact:email": "canilevigevano@gmail.com",
+      "contact:phone": "+39 038140242",
+      "name": "Rifugio del cane \"Mariuccia Bono\"",
+      "operator": "A.D.A.I. Onlus"
+    },
+    "lat": 45.2925726,
+    "lon": 8.8355179,
+    "other": "OSM: amenity=animal_shelter",
+    "notes": "Fonte OpenStreetMap (ODbL). Dati di contatto come mappati in OSM: verificare prima di un eventuale contatto.",
+    "_system": "automatica"
+  }
+]
