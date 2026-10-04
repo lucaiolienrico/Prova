@@ -1031,3 +1031,15 @@
 
 **Bilancio**: 6 citta' ok, 2 elementi OSM, 2 schede candidate, 2 nuove, 0 integrate, 0 citta' fallite (verranno ritentate), coda rimanente ~286.
 
+## Giro del 2026-10-04T20:43:35Z (run_20261004_204335_800d)
+| Citta' | Elementi | Trovati | Nuovi | Gia' noti / integrati | Esito |
+|---|---|---|---|---|---|
+| Matera | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Crotone | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Agrigento | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Faenza | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Legnano | 2 | 2 | 0 | 2 (0 integrati) | ok |
+| Marano di Napoli | 1 | 1 | 0 | 1 (0 integrati) | ok |
+
+**Bilancio**: 6 citta' ok, 3 elementi OSM, 3 schede candidate, 0 nuove, 0 integrate, 0 citta' fallite (verranno ritentate), coda rimanente ~280.
+
