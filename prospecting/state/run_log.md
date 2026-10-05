@@ -1043,3 +1043,15 @@
 
 **Bilancio**: 6 citta' ok, 3 elementi OSM, 3 schede candidate, 0 nuove, 0 integrate, 0 citta' fallite (verranno ritentate), coda rimanente ~280.
 
+## Giro del 2026-10-05T03:21:32Z (run_20261005_032132_c3be)
+| Citta' | Elementi | Trovati | Nuovi | Gia' noti / integrati | Esito |
+|---|---|---|---|---|---|
+| Cerignola | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Acerra | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Pomezia | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Bitonto | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Manfredonia | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Foligno | 0 | 0 | 0 | 0 (0 integrati) | ok |
+
+**Bilancio**: 6 citta' ok, 0 elementi OSM, 0 schede candidate, 0 nuove, 0 integrate, 0 citta' fallite (verranno ritentate), coda rimanente ~274.
+
