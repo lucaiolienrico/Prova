@@ -1,0 +1,38 @@
+[
+  {
+    "n": "Agrimarket",
+    "cat": "Pet shop",
+    "sub": null,
+    "city": "Teramo",
+    "prov": "TE",
+    "reg": "Abruzzo",
+    "addr": "Contrada Cartecchio, 64100",
+    "site": "http://www.Agrimarket.te.it",
+    "email": "info@agrimarket.te.it",
+    "tel": "+39 0861 211858",
+    "ig": null,
+    "fb": null,
+    "contact": null,
+    "src": "OpenStreetMap (Overpass API, ODbL)",
+    "srcurl": "https://www.openstreetmap.org/node/4358929392",
+    "osm_id": 4358929392,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Teramo",
+      "addr:postcode": "64100",
+      "addr:street": "Contrada Cartecchio",
+      "description": "Giardinaggio, prodotti pet e per il riscaldamento",
+      "email": "info@agrimarket.te.it",
+      "name": "Agrimarket",
+      "nohousenumber": "yes",
+      "phone": "+39 0861 211858",
+      "shop": "pet",
+      "website": "http://www.Agrimarket.te.it"
+    },
+    "lat": 42.6692822,
+    "lon": 13.7282614,
+    "other": "OSM: shop=pet",
+    "notes": "Fonte OpenStreetMap (ODbL). Dati di contatto come mappati in OSM: verificare prima di un eventuale contatto.",
+    "_system": "automatica"
+  }
+]
