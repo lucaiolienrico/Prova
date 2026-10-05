@@ -37607,5 +37607,40 @@
     "_archive_id": 1086,
     "_found_at": "2026-10-04T16:22:08Z",
     "_wave": "run_20261004_161427_9710"
+  },
+  {
+    "n": "Apulia dog village",
+    "cat": "Pensioni per animali",
+    "sub": null,
+    "city": "Bisceglie",
+    "prov": "BT",
+    "reg": "Puglia",
+    "addr": null,
+    "site": null,
+    "email": "iannisergio7701@gmail.com",
+    "tel": "+39 345 8087815",
+    "ig": null,
+    "fb": "https://www.facebook.com/profile.php?id=100090154815812",
+    "contact": null,
+    "src": "OpenStreetMap (Overpass API, ODbL)",
+    "srcurl": "https://www.openstreetmap.org/node/12294351217",
+    "osm_id": 12294351217,
+    "osm_type": "node",
+    "osm_tags": {
+      "amenity": "animal_boarding",
+      "animal_boarding": "dog",
+      "contact:facebook": "https://www.facebook.com/profile.php?id=100090154815812",
+      "email": "iannisergio7701@gmail.com",
+      "name": "Apulia dog village",
+      "phone": "+39 345 8087815"
+    },
+    "lat": 41.2231214,
+    "lon": 16.4300725,
+    "other": "OSM: amenity=animal_boarding",
+    "notes": "Fonte OpenStreetMap (ODbL). Dati di contatto come mappati in OSM: verificare prima di un eventuale contatto.",
+    "_system": "automatica",
+    "_archive_id": 1087,
+    "_found_at": "2026-10-05T13:23:14Z",
+    "_wave": "run_20261005_131156_7fa1"
   }
 ]

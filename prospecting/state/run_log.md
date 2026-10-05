@@ -1055,3 +1055,15 @@
 
 **Bilancio**: 6 citta' ok, 0 elementi OSM, 0 schede candidate, 0 nuove, 0 integrate, 0 citta' fallite (verranno ritentate), coda rimanente ~274.
 
+## Giro del 2026-10-05T13:11:56Z (run_20261005_131156_7fa1)
+| Citta' | Elementi | Trovati | Nuovi | Gia' noti / integrati | Esito |
+|---|---|---|---|---|---|
+| Moncalieri | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Trani | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Portici | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Cuneo | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| San Severo | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Bisceglie | 1 | 1 | 1 | 0 (0 integrati) | ok |
+
+**Bilancio**: 6 citta' ok, 1 elementi OSM, 1 schede candidate, 1 nuove, 0 integrate, 0 citta' fallite (verranno ritentate), coda rimanente ~268.
+
