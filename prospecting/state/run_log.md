@@ -1103,3 +1103,15 @@
 
 **Bilancio**: 6 citta' ok, 2 elementi OSM, 2 schede candidate, 1 nuove, 0 integrate, 0 citta' fallite (verranno ritentate), coda rimanente ~250.
 
+## Giro del 2026-10-06T22:04:59Z (run_20261006_220459_72bb)
+| Citta' | Elementi | Trovati | Nuovi | Gia' noti / integrati | Esito |
+|---|---|---|---|---|---|
+| Montesilvano | 2 | 2 | 0 | 2 (0 integrati) | ok |
+| Rovigo | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Rho | 1 | 1 | 0 | 1 (0 integrati) | ok |
+| Scafati | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Mazara del Vallo | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Ascoli Piceno | 1 | 1 | 0 | 1 (0 integrati) | ok |
+
+**Bilancio**: 6 citta' ok, 4 elementi OSM, 4 schede candidate, 0 nuove, 0 integrate, 0 citta' fallite (verranno ritentate), coda rimanente ~244.
+

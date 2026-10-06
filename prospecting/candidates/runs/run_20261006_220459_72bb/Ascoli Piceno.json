@@ -1,0 +1,41 @@
+[
+  {
+    "n": "Ambulatorio Veterinario Associato Virgulti-Grosso",
+    "cat": "Veterinari",
+    "sub": null,
+    "city": "Ascoli Piceno",
+    "prov": "AP",
+    "reg": "Marche",
+    "addr": "Largo delle Veroniche 17, 63100",
+    "site": "https://www.veterinarivirgultiegrosso.it/",
+    "email": "info@veterinarivirgultiegrosso.it",
+    "tel": "+39 0736 45999",
+    "ig": null,
+    "fb": "https://www.facebook.com/p/Ambulatorio-Veterinario-Virgulti-e-Grosso-100063536714580",
+    "contact": null,
+    "src": "OpenStreetMap (Overpass API, ODbL)",
+    "srcurl": "https://www.openstreetmap.org/node/12565737951",
+    "osm_id": 12565737951,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Monticelli",
+      "addr:housenumber": "17",
+      "addr:postcode": "63100",
+      "addr:street": "Largo delle Veroniche",
+      "amenity": "veterinary",
+      "check_date": "2025-02-07",
+      "contact:facebook": "https://www.facebook.com/p/Ambulatorio-Veterinario-Virgulti-e-Grosso-100063536714580",
+      "email": "info@veterinarivirgultiegrosso.it",
+      "name": "Ambulatorio Veterinario Associato Virgulti-Grosso",
+      "opening_hours": "Mo-Fr 10:00-12:30,16:00-19:00; Sa 10:00-12:30; Su,PH off",
+      "phone": "+39 0736 45999",
+      "ref:vatin": "IT01573600440",
+      "website": "https://www.veterinarivirgultiegrosso.it/"
+    },
+    "lat": 42.8495051,
+    "lon": 13.6141997,
+    "other": "OSM: amenity=veterinary, opening_hours=Mo-Fr 10:00-12:30,16:00-19:00; Sa 10:00-12:30; Su,PH off",
+    "notes": "Fonte OpenStreetMap (ODbL). Dati di contatto come mappati in OSM: verificare prima di un eventuale contatto.",
+    "_system": "automatica"
+  }
+]
