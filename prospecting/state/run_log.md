@@ -1091,3 +1091,15 @@
 
 **Bilancio**: 6 citta' ok, 1 elementi OSM, 1 schede candidate, 1 nuove, 0 integrate, 0 citta' fallite (verranno ritentate), coda rimanente ~256.
 
+## Giro del 2026-10-06T12:31:33Z (run_20261006_123133_bd65)
+| Citta' | Elementi | Trovati | Nuovi | Gia' noti / integrati | Esito |
+|---|---|---|---|---|---|
+| Chieti | 2 | 2 | 1 | 1 (0 integrati) | ok |
+| Acireale | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Civitavecchia | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Pordenone | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Battipaglia | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Gallarate | 0 | 0 | 0 | 0 (0 integrati) | ok |
+
+**Bilancio**: 6 citta' ok, 2 elementi OSM, 2 schede candidate, 1 nuove, 0 integrate, 0 citta' fallite (verranno ritentate), coda rimanente ~250.
+

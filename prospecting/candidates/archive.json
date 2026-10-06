@@ -37720,5 +37720,43 @@
     "_archive_id": 1089,
     "_found_at": "2026-10-06T04:14:39Z",
     "_wave": "run_20261006_040845_b13f"
+  },
+  {
+    "n": "Adrizoo",
+    "cat": "Pet shop",
+    "sub": null,
+    "city": "Chieti",
+    "prov": "CH",
+    "reg": "Abruzzo",
+    "addr": null,
+    "site": "https://www.adrizoo.com/",
+    "email": "info@adrizoo.com",
+    "tel": "+39 085 446 3630",
+    "ig": null,
+    "fb": "https://www.facebook.com/AdrizooShop/",
+    "contact": null,
+    "src": "OpenStreetMap (Overpass API, ODbL)",
+    "srcurl": "https://www.openstreetmap.org/node/11866318695",
+    "osm_id": 11866318695,
+    "osm_type": "node",
+    "osm_tags": {
+      "contact:facebook": "https://www.facebook.com/AdrizooShop/",
+      "email": "info@adrizoo.com",
+      "fax": "+39 085 446 3641",
+      "name": "Adrizoo",
+      "opening_hours": "Mo-Fr 09:00-19:30; Sa 09:30-19:30",
+      "phone": "+39 085 446 3630",
+      "ref:vatin": "IT00313800682",
+      "shop": "pet",
+      "website": "https://www.adrizoo.com/"
+    },
+    "lat": 42.4078907,
+    "lon": 14.1598446,
+    "other": "OSM: opening_hours=Mo-Fr 09:00-19:30; Sa 09:30-19:30, shop=pet",
+    "notes": "Fonte OpenStreetMap (ODbL). Dati di contatto come mappati in OSM: verificare prima di un eventuale contatto.",
+    "_system": "automatica",
+    "_archive_id": 1090,
+    "_found_at": "2026-10-06T12:34:00Z",
+    "_wave": "run_20261006_123133_bd65"
   }
 ]
