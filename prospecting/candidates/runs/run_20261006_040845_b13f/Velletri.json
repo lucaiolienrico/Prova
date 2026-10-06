@@ -1,0 +1,38 @@
+[
+  {
+    "n": "AgriAppia",
+    "cat": "Pet shop",
+    "sub": null,
+    "city": "Velletri",
+    "prov": "RM",
+    "reg": "Lazio",
+    "addr": "Via Lata 34, 00049",
+    "site": "https://agriappiastore.it",
+    "email": "agriappia@tiscali.it",
+    "tel": "+39 06 9637381",
+    "ig": null,
+    "fb": null,
+    "contact": null,
+    "src": "OpenStreetMap (Overpass API, ODbL)",
+    "srcurl": "https://www.openstreetmap.org/node/12175320400",
+    "osm_id": 12175320400,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Velletri",
+      "addr:country": "IT",
+      "addr:housenumber": "34",
+      "addr:postcode": "00049",
+      "addr:street": "Via Lata",
+      "email": "agriappia@tiscali.it",
+      "name": "AgriAppia",
+      "phone": "+39 06 9637381",
+      "shop": "pet",
+      "website": "https://agriappiastore.it"
+    },
+    "lat": 41.6931794,
+    "lon": 12.7818097,
+    "other": "OSM: shop=pet",
+    "notes": "Fonte OpenStreetMap (ODbL). Dati di contatto come mappati in OSM: verificare prima di un eventuale contatto.",
+    "_system": "automatica"
+  }
+]

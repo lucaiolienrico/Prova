@@ -1079,3 +1079,15 @@
 
 **Bilancio**: 6 citta' ok, 1 elementi OSM, 1 schede candidate, 1 nuove, 0 integrate, 0 citta' fallite (verranno ritentate), coda rimanente ~262.
 
+## Giro del 2026-10-06T04:08:45Z (run_20261006_040845_b13f)
+| Citta' | Elementi | Trovati | Nuovi | Gia' noti / integrati | Esito |
+|---|---|---|---|---|---|
+| Ercolano | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Olbia | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Tivoli | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Siena | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Aversa | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Velletri | 1 | 1 | 1 | 0 (0 integrati) | ok |
+
+**Bilancio**: 6 citta' ok, 1 elementi OSM, 1 schede candidate, 1 nuove, 0 integrate, 0 citta' fallite (verranno ritentate), coda rimanente ~256.
+
