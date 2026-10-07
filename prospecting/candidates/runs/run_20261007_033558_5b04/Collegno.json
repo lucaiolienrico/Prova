@@ -1,0 +1,39 @@
+[
+  {
+    "n": "Canile Il Cascinotto",
+    "cat": "Rifugi per animali",
+    "sub": null,
+    "city": "Collegno",
+    "prov": "TO",
+    "reg": "Piemonte",
+    "addr": "Strada comunale della Varda, 10093",
+    "site": "http://www.cascinotto.it",
+    "email": "info@cascinotto.it",
+    "tel": "+39 011 415 6326",
+    "ig": null,
+    "fb": null,
+    "contact": "Associazione Amici degli Animali G Allara",
+    "src": "OpenStreetMap (Overpass API, ODbL)",
+    "srcurl": "https://www.openstreetmap.org/way/289813938",
+    "osm_id": 289813938,
+    "osm_type": "way",
+    "osm_tags": {
+      "addr:city": "Collegno",
+      "addr:postcode": "10093",
+      "addr:street": "Strada comunale della Varda",
+      "amenity": "animal_shelter",
+      "animal_shelter": "dog;cat",
+      "animal_shelter:adoption": "yes",
+      "email": "info@cascinotto.it",
+      "name": "Canile Il Cascinotto",
+      "operator": "Associazione Amici degli Animali G Allara",
+      "phone": "+39 011 415 6326",
+      "website": "http://www.cascinotto.it"
+    },
+    "lat": 45.0866946,
+    "lon": 7.5874894,
+    "other": "OSM: amenity=animal_shelter",
+    "notes": "Fonte OpenStreetMap (ODbL). Dati di contatto come mappati in OSM: verificare prima di un eventuale contatto.",
+    "_system": "automatica"
+  }
+]

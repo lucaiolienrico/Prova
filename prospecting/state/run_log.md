@@ -1115,3 +1115,15 @@
 
 **Bilancio**: 6 citta' ok, 4 elementi OSM, 4 schede candidate, 0 nuove, 0 integrate, 0 citta' fallite (verranno ritentate), coda rimanente ~244.
 
+## Giro del 2026-10-07T03:35:58Z (run_20261007_033558_5b04)
+| Citta' | Elementi | Trovati | Nuovi | Gia' noti / integrati | Esito |
+|---|---|---|---|---|---|
+| Scandicci | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Chioggia | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Anzio | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Collegno | 1 | 1 | 1 | 0 (0 integrati) | ok |
+| Martina Franca | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Campobasso | 0 | 0 | 0 | 0 (0 integrati) | ok |
+
+**Bilancio**: 6 citta' ok, 1 elementi OSM, 1 schede candidate, 1 nuove, 0 integrate, 0 citta' fallite (verranno ritentate), coda rimanente ~238.
+
