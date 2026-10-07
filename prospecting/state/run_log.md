@@ -1127,3 +1127,15 @@
 
 **Bilancio**: 6 citta' ok, 1 elementi OSM, 1 schede candidate, 1 nuove, 0 integrate, 0 citta' fallite (verranno ritentate), coda rimanente ~238.
 
+## Giro del 2026-10-07T12:24:32Z (run_20261007_122432_4d6a)
+| Citta' | Elementi | Trovati | Nuovi | Gia' noti / integrati | Esito |
+|---|---|---|---|---|---|
+| Rivoli | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Casalnuovo di Napoli | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Monopoli | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Corato | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Paternò | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Nichelino | 0 | 0 | 0 | 0 (0 integrati) | ok |
+
+**Bilancio**: 6 citta' ok, 0 elementi OSM, 0 schede candidate, 0 nuove, 0 integrate, 0 citta' fallite (verranno ritentate), coda rimanente ~232.
+
