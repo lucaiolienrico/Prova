@@ -1,0 +1,33 @@
+[
+  {
+    "n": "Studio Veterinario Giobbi dr. Bruno",
+    "cat": "Veterinari",
+    "sub": null,
+    "city": "San Benedetto del Tronto",
+    "prov": "AP",
+    "reg": "Marche",
+    "addr": null,
+    "site": null,
+    "email": "giobbibvet@gmail.com",
+    "tel": "+39 360 489535",
+    "ig": null,
+    "fb": null,
+    "contact": null,
+    "src": "OpenStreetMap (Overpass API, ODbL)",
+    "srcurl": "https://www.openstreetmap.org/node/9110970317",
+    "osm_id": 9110970317,
+    "osm_type": "node",
+    "osm_tags": {
+      "amenity": "veterinary",
+      "email": "giobbibvet@gmail.com",
+      "name": "Studio Veterinario Giobbi dr. Bruno",
+      "opening_hours": "Mo-Sa 18:00-20:00",
+      "phone": "+39 360 489535"
+    },
+    "lat": 42.8966771,
+    "lon": 13.851475,
+    "other": "OSM: amenity=veterinary, opening_hours=Mo-Sa 18:00-20:00",
+    "notes": "Fonte OpenStreetMap (ODbL). Dati di contatto come mappati in OSM: verificare prima di un eventuale contatto.",
+    "_system": "automatica"
+  }
+]

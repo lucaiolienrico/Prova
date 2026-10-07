@@ -1139,3 +1139,15 @@
 
 **Bilancio**: 6 citta' ok, 0 elementi OSM, 0 schede candidate, 0 nuove, 0 integrate, 0 citta' fallite (verranno ritentate), coda rimanente ~232.
 
+## Giro del 2026-10-07T22:29:20Z (run_20261007_222920_7a8c)
+| Citta' | Elementi | Trovati | Nuovi | Gia' noti / integrati | Esito |
+|---|---|---|---|---|---|
+| Sesto Fiorentino | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Misterbianco | 1 | 1 | 0 | 1 (0 integrati) | ok |
+| San Benedetto del Tronto | 1 | 1 | 1 | 0 (0 integrati) | ok |
+| Settimo Torinese | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Lecco | 1 | 1 | 1 | 0 (0 integrati) | ok |
+| Mantova | 1 | 1 | 1 | 0 (0 integrati) | ok |
+
+**Bilancio**: 6 citta' ok, 4 elementi OSM, 4 schede candidate, 3 nuove, 0 integrate, 0 citta' fallite (verranno ritentate), coda rimanente ~226.
+

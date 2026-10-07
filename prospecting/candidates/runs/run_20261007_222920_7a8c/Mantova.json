@@ -1,0 +1,37 @@
+[
+  {
+    "n": "Taku boutique",
+    "cat": "Pet shop",
+    "sub": null,
+    "city": "Mantova",
+    "prov": "MN",
+    "reg": "Lombardia",
+    "addr": "Via Marmirolo 1, 46100",
+    "site": "http://www.takuboutique.it",
+    "email": "info@takuboutique.it",
+    "tel": "+390376391091",
+    "ig": null,
+    "fb": null,
+    "contact": null,
+    "src": "OpenStreetMap (Overpass API, ODbL)",
+    "srcurl": "https://www.openstreetmap.org/node/5577781921",
+    "osm_id": 5577781921,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:housenumber": "1",
+      "addr:postcode": "46100",
+      "addr:street": "Via Marmirolo",
+      "email": "info@takuboutique.it",
+      "name": "Taku boutique",
+      "name:ru": "Таку бутик",
+      "phone": "+390376391091",
+      "shop": "pet",
+      "website": "http://www.takuboutique.it"
+    },
+    "lat": 45.1792351,
+    "lon": 10.7816557,
+    "other": "OSM: shop=pet",
+    "notes": "Fonte OpenStreetMap (ODbL). Dati di contatto come mappati in OSM: verificare prima di un eventuale contatto.",
+    "_system": "automatica"
+  }
+]

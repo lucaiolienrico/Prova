@@ -1,0 +1,40 @@
+[
+  {
+    "n": "Pet Queen",
+    "cat": "Pet shop",
+    "sub": null,
+    "city": "Lecco",
+    "prov": "LC",
+    "reg": "Lombardia",
+    "addr": "Via Don Antonio Mascari 49a, 23900",
+    "site": "https://www.petqueen.it/",
+    "email": "petqueen@libero.it",
+    "tel": "+39 0341 286529",
+    "ig": null,
+    "fb": null,
+    "contact": null,
+    "src": "OpenStreetMap (Overpass API, ODbL)",
+    "srcurl": "https://www.openstreetmap.org/node/5585915146",
+    "osm_id": 5585915146,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:city": "Lecco",
+      "addr:country": "IT",
+      "addr:housenumber": "49a",
+      "addr:postcode": "23900",
+      "addr:street": "Via Don Antonio Mascari",
+      "email": "petqueen@libero.it",
+      "fax": "+39 0341 286529",
+      "name": "Pet Queen",
+      "opening_hours": "Mo 15:00-18:30; Tu-Sa 09:30-12:30,15:00-19:30; Su 10:00-12:30,15:30-19:00",
+      "phone": "+39 0341 286529",
+      "shop": "pet",
+      "website": "https://www.petqueen.it/"
+    },
+    "lat": 45.855225,
+    "lon": 9.3905425,
+    "other": "OSM: opening_hours=Mo 15:00-18:30; Tu-Sa 09:30-12:30,15:00-19:30; Su 10:00-12:30,15:30-19:00, shop=pet",
+    "notes": "Fonte OpenStreetMap (ODbL). Dati di contatto come mappati in OSM: verificare prima di un eventuale contatto.",
+    "_system": "automatica"
+  }
+]

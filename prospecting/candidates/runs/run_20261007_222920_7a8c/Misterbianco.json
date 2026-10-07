@@ -1,0 +1,33 @@
+[
+  {
+    "n": "Dog B&B",
+    "cat": "Pensioni per animali",
+    "sub": null,
+    "city": "Misterbianco",
+    "prov": "CT",
+    "reg": "Sicilia",
+    "addr": null,
+    "site": null,
+    "email": "bandb2022@gmail.com",
+    "tel": null,
+    "ig": null,
+    "fb": null,
+    "contact": null,
+    "src": "OpenStreetMap (Overpass API, ODbL)",
+    "srcurl": "https://www.openstreetmap.org/node/12990447160",
+    "osm_id": 12990447160,
+    "osm_type": "node",
+    "osm_tags": {
+      "amenity": "animal_boarding",
+      "animal_boarding": "dog",
+      "email": "bandb2022@gmail.com",
+      "mobile": "+39 3498729014",
+      "name": "Dog B&B"
+    },
+    "lat": 37.4765558,
+    "lon": 14.9894055,
+    "other": "OSM: amenity=animal_boarding",
+    "notes": "Fonte OpenStreetMap (ODbL). Dati di contatto come mappati in OSM: verificare prima di un eventuale contatto.",
+    "_system": "automatica"
+  }
+]
