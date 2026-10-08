@@ -1175,3 +1175,15 @@
 
 **Bilancio**: 6 citta' ok, 0 elementi OSM, 0 schede candidate, 0 nuove, 0 integrate, 0 citta' fallite (verranno ritentate), coda rimanente ~214.
 
+## Giro del 2026-10-08T22:42:28Z (run_20261008_224228_5f84)
+| Citta' | Elementi | Trovati | Nuovi | Gia' noti / integrati | Esito |
+|---|---|---|---|---|---|
+| Terracina | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Ardea | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Cascina | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Biella | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Gravina in Puglia | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Torre Annunziata | 0 | 0 | 0 | 0 (0 integrati) | ok |
+
+**Bilancio**: 6 citta' ok, 0 elementi OSM, 0 schede candidate, 0 nuove, 0 integrate, 0 citta' fallite (verranno ritentate), coda rimanente ~208.
+
