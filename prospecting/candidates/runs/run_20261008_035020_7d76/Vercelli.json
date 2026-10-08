@@ -1,0 +1,39 @@
+[
+  {
+    "n": "Dottoressa Cristina Sandoli",
+    "cat": "Veterinari",
+    "sub": null,
+    "city": "Vercelli",
+    "prov": "VC",
+    "reg": "Piemonte",
+    "addr": null,
+    "site": null,
+    "email": "cristinasandoli@gmail.com",
+    "tel": "+39 338 4462132",
+    "ig": null,
+    "fb": "https://www.facebook.com/Ambulatorio-Veterinario-Dr-Cristina-Sandoli-233395586863284",
+    "contact": null,
+    "src": "OpenStreetMap (Overpass API, ODbL)",
+    "srcurl": "https://www.openstreetmap.org/node/2943298582",
+    "osm_id": 2943298582,
+    "osm_type": "node",
+    "osm_tags": {
+      "amenity": "veterinary",
+      "check_date": "2024-10-29",
+      "contact:city": "Vercelli",
+      "contact:facebook": "https://www.facebook.com/Ambulatorio-Veterinario-Dr-Cristina-Sandoli-233395586863284",
+      "contact:housenumber": "25",
+      "contact:postcode": "13100",
+      "contact:street": "Via Thaon de Revel",
+      "email": "cristinasandoli@gmail.com",
+      "name": "Dottoressa Cristina Sandoli",
+      "opening_hours": "\"su appuntamento\"",
+      "phone": "+39 338 4462132"
+    },
+    "lat": 45.3063864,
+    "lon": 8.4436579,
+    "other": "OSM: amenity=veterinary, opening_hours=\"su appuntamento\"",
+    "notes": "Fonte OpenStreetMap (ODbL). Dati di contatto come mappati in OSM: verificare prima di un eventuale contatto.",
+    "_system": "automatica"
+  }
+]

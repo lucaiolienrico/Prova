@@ -1151,3 +1151,15 @@
 
 **Bilancio**: 6 citta' ok, 4 elementi OSM, 4 schede candidate, 3 nuove, 0 integrate, 0 citta' fallite (verranno ritentate), coda rimanente ~226.
 
+## Giro del 2026-10-08T03:50:20Z (run_20261008_035020_7d76)
+| Citta' | Elementi | Trovati | Nuovi | Gia' noti / integrati | Esito |
+|---|---|---|---|---|---|
+| Frosinone | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Nocera Inferiore | 1 | 1 | 0 | 1 (0 integrati) | ok |
+| Paderno Dugnano | 5 | 5 | 0 | 5 (0 integrati) | ok |
+| Empoli | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Vercelli | 1 | 1 | 0 | 1 (0 integrati) | ok |
+| Rieti | 0 | 0 | 0 | 0 (0 integrati) | ok |
+
+**Bilancio**: 6 citta' ok, 7 elementi OSM, 7 schede candidate, 0 nuove, 0 integrate, 0 citta' fallite (verranno ritentate), coda rimanente ~220.
+
