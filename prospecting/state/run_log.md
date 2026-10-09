@@ -1211,3 +1211,15 @@
 
 **Bilancio**: 6 citta' ok, 0 elementi OSM, 0 schede candidate, 0 nuove, 0 integrate, 0 citta' fallite (verranno ritentate), coda rimanente ~196.
 
+## Giro del 2026-10-09T22:04:32Z (run_20261009_220432_1d74)
+| Citta' | Elementi | Trovati | Nuovi | Gia' noti / integrati | Esito |
+|---|---|---|---|---|---|
+| Desio | 9 | 9 | 0 | 9 (0 integrati) | ok |
+| Jesi | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Marcianise | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Civitanova Marche | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Pomigliano d'Arco | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Città di Castello | 0 | 0 | 0 | 0 (0 integrati) | ok |
+
+**Bilancio**: 6 citta' ok, 9 elementi OSM, 9 schede candidate, 0 nuove, 0 integrate, 0 citta' fallite (verranno ritentate), coda rimanente ~190.
+
