@@ -1,0 +1,35 @@
+[
+  {
+    "n": "Clinica Veterinaria Morelli",
+    "cat": "Veterinari",
+    "sub": null,
+    "city": "Lodi",
+    "prov": "LO",
+    "reg": "Lombardia",
+    "addr": "Piazza Don Luigi Savarè 14",
+    "site": "https://www.clinicavetlodi.com/",
+    "email": "clinicavetlodi@libero.it",
+    "tel": "+39 0371412449",
+    "ig": null,
+    "fb": null,
+    "contact": null,
+    "src": "OpenStreetMap (Overpass API, ODbL)",
+    "srcurl": "https://www.openstreetmap.org/node/4269569792",
+    "osm_id": 4269569792,
+    "osm_type": "node",
+    "osm_tags": {
+      "addr:housenumber": "14",
+      "addr:street": "Piazza Don Luigi Savarè",
+      "amenity": "veterinary",
+      "email": "clinicavetlodi@libero.it",
+      "name": "Clinica Veterinaria Morelli",
+      "phone": "+39 0371412449",
+      "website": "https://www.clinicavetlodi.com/"
+    },
+    "lat": 45.3209945,
+    "lon": 9.4884092,
+    "other": "OSM: amenity=veterinary",
+    "notes": "Fonte OpenStreetMap (ODbL). Dati di contatto come mappati in OSM: verificare prima di un eventuale contatto.",
+    "_system": "automatica"
+  }
+]

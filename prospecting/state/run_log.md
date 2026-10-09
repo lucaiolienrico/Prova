@@ -1187,3 +1187,15 @@
 
 **Bilancio**: 6 citta' ok, 0 elementi OSM, 0 schede candidate, 0 nuove, 0 integrate, 0 citta' fallite (verranno ritentate), coda rimanente ~208.
 
+## Giro del 2026-10-09T03:55:31Z (run_20261009_035531_915e)
+| Citta' | Elementi | Trovati | Nuovi | Gia' noti / integrati | Esito |
+|---|---|---|---|---|---|
+| Lodi | 1 | 1 | 0 | 1 (0 integrati) | ok |
+| Seregno | 1 | 1 | 0 | 1 (0 integrati) | ok |
+| Bassano del Grappa | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Campi Bisenzio | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Imperia | 1 | 1 | 1 | 0 (0 integrati) | ok |
+| Lissone | 8 | 8 | 2 | 6 (0 integrati) | ok |
+
+**Bilancio**: 6 citta' ok, 11 elementi OSM, 11 schede candidate, 3 nuove, 0 integrate, 0 citta' fallite (verranno ritentate), coda rimanente ~202.
+

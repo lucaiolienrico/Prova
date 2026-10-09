@@ -1,0 +1,41 @@
+[
+  {
+    "n": "Green House",
+    "cat": "Pet shop",
+    "sub": null,
+    "city": "Imperia",
+    "prov": "IM",
+    "reg": "Liguria",
+    "addr": null,
+    "site": "https://www.greenhouseanimali.it/",
+    "email": "info@greenhouseanimali.it",
+    "tel": "+39 0183 881505",
+    "ig": "greenhouse_imperia",
+    "fb": "https://www.facebook.com/greenhouseanimali/",
+    "contact": null,
+    "src": "OpenStreetMap (Overpass API, ODbL)",
+    "srcurl": "https://www.openstreetmap.org/node/11518698596",
+    "osm_id": 11518698596,
+    "osm_type": "node",
+    "osm_tags": {
+      "contact:city": "Imperia",
+      "contact:email": "info@greenhouseanimali.it",
+      "contact:facebook": "https://www.facebook.com/greenhouseanimali/",
+      "contact:housenumber": "15",
+      "contact:instagram": "https://www.instagram.com/greenhouse_imperia/",
+      "contact:postcode": "18100",
+      "contact:street": "Via della Repubblica",
+      "contact:website": "https://www.greenhouseanimali.it/",
+      "mobile": "+39 320 8559686",
+      "name": "Green House",
+      "opening_hours": "Mo-Fr 09:00-13:00,16:00-19:30; Sa 09:00-12:30,16:00-19:30",
+      "phone": "+39 0183 881505",
+      "shop": "pet"
+    },
+    "lat": 43.8897815,
+    "lon": 8.0382451,
+    "other": "OSM: opening_hours=Mo-Fr 09:00-13:00,16:00-19:30; Sa 09:00-12:30,16:00-19:30, shop=pet",
+    "notes": "Fonte OpenStreetMap (ODbL). Dati di contatto come mappati in OSM: verificare prima di un eventuale contatto.",
+    "_system": "automatica"
+  }
+]
