@@ -1223,3 +1223,15 @@
 
 **Bilancio**: 6 citta' ok, 9 elementi OSM, 9 schede candidate, 0 nuove, 0 integrate, 0 citta' fallite (verranno ritentate), coda rimanente ~190.
 
+## Giro del 2026-10-10T03:40:16Z (run_20261010_034016_82ff)
+| Citta' | Elementi | Trovati | Nuovi | Gia' noti / integrati | Esito |
+|---|---|---|---|---|---|
+| Rozzano | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Sassuolo | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Monterotondo | 1 | 1 | 0 | 1 (0 integrati) | ok |
+| Fasano | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Maddaloni | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Quarto | 0 | 0 | 0 | 0 (0 integrati) | ok |
+
+**Bilancio**: 6 citta' ok, 1 elementi OSM, 1 schede candidate, 0 nuove, 0 integrate, 0 citta' fallite (verranno ritentate), coda rimanente ~184.
+
