@@ -1235,3 +1235,15 @@
 
 **Bilancio**: 6 citta' ok, 1 elementi OSM, 1 schede candidate, 0 nuove, 0 integrate, 0 citta' fallite (verranno ritentate), coda rimanente ~184.
 
+## Giro del 2026-10-10T11:40:52Z (run_20261010_114052_97a7)
+| Citta' | Elementi | Trovati | Nuovi | Gia' noti / integrati | Esito |
+|---|---|---|---|---|---|
+| Schio | 1 | 1 | 1 | 0 (0 integrati) | ok |
+| Vasto | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Cantù | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Saronno | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Mira | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Albano Laziale | 1 | 1 | 0 | 1 (0 integrati) | ok |
+
+**Bilancio**: 6 citta' ok, 2 elementi OSM, 2 schede candidate, 1 nuove, 0 integrate, 0 citta' fallite (verranno ritentate), coda rimanente ~178.
+

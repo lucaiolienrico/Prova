@@ -1,0 +1,38 @@
+[
+  {
+    "n": "Il maialino verde",
+    "cat": "Rifugi per animali",
+    "sub": null,
+    "city": "Albano Laziale",
+    "prov": "RM",
+    "reg": "Lazio",
+    "addr": null,
+    "site": null,
+    "email": "gianluca5577@hotmail.com",
+    "tel": "+39 331 705 8886",
+    "ig": null,
+    "fb": "https://www.facebook.com/ilmaialinoverde/",
+    "contact": null,
+    "src": "OpenStreetMap (Overpass API, ODbL)",
+    "srcurl": "https://www.openstreetmap.org/node/8850756856",
+    "osm_id": 8850756856,
+    "osm_type": "node",
+    "osm_tags": {
+      "amenity": "animal_shelter",
+      "animal_shelter": "dog",
+      "animal_shelter:adoption": "dog",
+      "contact:housenumber": "32",
+      "contact:street": "Via Canneti di Castelluccia",
+      "email": "gianluca5577@hotmail.com",
+      "facebook": "https://www.facebook.com/ilmaialinoverde/",
+      "fixme": "posizione",
+      "name": "Il maialino verde",
+      "phone": "+39 331 705 8886"
+    },
+    "lat": 41.7469938,
+    "lon": 12.6164687,
+    "other": "OSM: amenity=animal_shelter",
+    "notes": "Fonte OpenStreetMap (ODbL). Dati di contatto come mappati in OSM: verificare prima di un eventuale contatto.",
+    "_system": "automatica"
+  }
+]
