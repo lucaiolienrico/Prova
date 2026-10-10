@@ -1247,3 +1247,15 @@
 
 **Bilancio**: 6 citta' ok, 2 elementi OSM, 2 schede candidate, 1 nuove, 0 integrate, 0 citta' fallite (verranno ritentate), coda rimanente ~178.
 
+## Giro del 2026-10-10T16:42:33Z (run_20261010_164233_f1ab)
+| Citta' | Elementi | Trovati | Nuovi | Gia' noti / integrati | Esito |
+|---|---|---|---|---|---|
+| Spoleto | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Marino | 1 | 1 | 0 | 1 (0 integrati) | ok |
+| Eboli | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Voghera | 1 | 1 | 0 | 1 (0 integrati) | ok |
+| Licata | 0 | 0 | 0 | 0 (0 integrati) | ok |
+| Caltagirone | 0 | 0 | 0 | 0 (0 integrati) | ok |
+
+**Bilancio**: 6 citta' ok, 2 elementi OSM, 2 schede candidate, 0 nuove, 0 integrate, 0 citta' fallite (verranno ritentate), coda rimanente ~172.
+
